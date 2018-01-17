@@ -1,0 +1,26 @@
+
+
+p {
+	margin: auto;
+	width: 600;
+	border: 3px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+h1 {
+	font-family: "Courier New";
+}
+
+.box {
+    width: 300px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
+
+img {
+	max-width: 1920px;
+	max-height: 50%;
+}
